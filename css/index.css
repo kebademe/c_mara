@@ -12,3 +12,11 @@
   line-height: 1em;
   color: white;
 }
+
+.card-body:hover{
+	font-weight: 800;
+    font-size: 1.1em;
+	color: black;
+	background-color: #abc;
+	}
+	
